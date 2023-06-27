@@ -1,0 +1,7 @@
+# List of Programs
+index.txt
+
+# Executables
+*.exe
+*.out
+*.app
